@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+      "name": "Plumpy Nut",
+      "price": 25.76,
+      "imgUrl": ""
+    },
+    {
+        "id": 2,
+      "name": "Measles Vaccine",
+      "price": 90.51,
+      "imgUrl": ""
+    },
+    {
+        "id": 3,
+      "name": "Therapeutic Milk",
+      "price": 56.14,
+      "imgUrl": ""
+    },
+    {
+        "id": 4,
+      "name": "Pencils",
+      "price": 13.9,
+      "imgUrl": ""
+    },
+    {
+        "id": 5,
+      "name": "School Bags",
+      "price": 19.45,
+      "imgUrl": ""
+    },
+    {
+        "id": 6,
+      "name": "Bar of Soap",
+      "price": 2.95,
+      "imgUrl": ""
+    },
+    {
+        "id": 7,
+      "name": "Tent",
+      "price": 300.45,
+      "imgUrl": ""
+    },
+    {
+        "id": 8,
+      "name": "Water Purification Tablet",
+      "price": 5.54,
+      "imgUrl": ""
+    }
+  ]
